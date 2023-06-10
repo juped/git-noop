@@ -1,0 +1,29 @@
+#+TITLE: git-noop
+
+* Overview
+
+~git-noop~ is an extension to ~git~ which performs no operation.
+
+* Usage
+
+#+BEGIN_EXAMPLE
+% git noop
+#+END_EXAMPLE
+
+* Installation
+
+Place the ~git-noop~ executable somewhere on your PATH.
+
+* Examples
+
+#+BEGIN_EXAMPLE
+% git noop
+#+END_EXAMPLE
+
+* Advanced usage
+
+The ~git-noop~ command can be replaced with the absence of a command
+by advanced users. For example:
+
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
