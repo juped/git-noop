@@ -1,0 +1,4 @@
+[package]
+name = "git-noop"
+version = "4.2.0"
+edition = "2021"
